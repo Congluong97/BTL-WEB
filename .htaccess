@@ -1,0 +1,4 @@
+AuthName "This My Awesome Drupal Site Area!!.. Identify Yourself First."
+AuthType Basic
+AuthUserFile D:\Xampp\htdocs\BtLop\BTL-WEB\.htpasswd
+require valid-user
